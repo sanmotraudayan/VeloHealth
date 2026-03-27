@@ -44,4 +44,4 @@ VeloHealth shifts the focus from **State** ("How are you today?") to **Velocity*
 * **Economic:** Saves thousands per patient annually by preventing hospitalizations through precision medicine.
 -
 ---
-*Developed for the [Hackathon Name] 2026*
+*Developed for Randomize The Hackathon 2026*
